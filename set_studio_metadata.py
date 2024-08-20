@@ -113,7 +113,7 @@ def write_metadata():
                     "id": movie_id,
                     "label": title[object_id],
                     "live_video": False,
-                    "media_catalog_id": "iq__4GTwdvyifajEUfnJMc8g4sX5iyCv",
+                    "media_catalog_id": media_catalog_id,
                     "media_link": {
                         ".": {
                             "container": "hq__GZ2wHcSjAHHsFt4gARiryhf2RtX1ZZ15UfuAd9pdCuBzhi4sjDFei1cxCN9RqMamtiFUy66zmg"
