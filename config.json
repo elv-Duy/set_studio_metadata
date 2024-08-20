@@ -1,7 +1,7 @@
 {
-    "config_url": "https://main.net955305.contentfabric.io/config",
-    "private_key": "0xbd85ed73dcd5c6ffa4b3dcdef72503ab3275f620ee9d96404a45978649408536",
-    "mez_lib_id": "ilib4JvLVStm2pDMa89332h8tNqUCZvY",
-    "utilities_path": "/Users/duyhoangung/ELV/ml/elv-utils-js/utilities",
-    "media_catalog_id": "iq__4GTwdvyifajEUfnJMc8g4sX5iyCv"
+    "config_url": "Config URL",
+    "private_key": "Private key",
+    "mez_lib_id": "Mezzanine library ID",
+    "utilities_path": "/path/to/utilities",
+    "media_catalog_id": "Media catalog ID"
 }
