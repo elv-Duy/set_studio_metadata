@@ -25,7 +25,7 @@ npm install
 ```
 python studio_set_metadata.py
 ```
-Copy the output metadata from media.json and paste it into the Media Catalog, or use the MetaSet utility to set the metadata.
+Copy the output metadata from `media.json` and paste it into the Media Catalog, or use the MetaSet utility to set the metadata.
 
 ## Process
 * Extract and store titles of all content IDs in `title.json`
