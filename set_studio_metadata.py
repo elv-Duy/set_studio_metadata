@@ -99,9 +99,6 @@ def write_metadata():
     for object_id in title:
         try:
             movie_id = 'mvid' + object_id[4:][:22]
-            if movie_id in media:
-                print(movie_id, 'already existed')
-                movie_id = 'mvid' + object_id[5:][:22]
             media[movie_id] = {
                     "associated_media": [],
                     "attributes": {},
